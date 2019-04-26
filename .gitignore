@@ -1,0 +1,13 @@
+.git-commit-template
+.project
+.settings/
+Testmodule/.classpath
+Testmodule/.project
+Testmodule/.settings/
+Testmodule/target/
+service/.classpath
+service/.factorypath
+service/.project
+service/.settings/
+service/logs/
+service/target
